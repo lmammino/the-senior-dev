@@ -1,7 +1,7 @@
 ---
-theme: default
+theme: ./theme
 background: /images/cover.jpg
-class: 'text-center bg-cover w-auto h-auto'
+download: true
 highlighter: shiki
 lineNumbers: false
 info: |
@@ -11,10 +11,11 @@ info: |
   Learn more at [Sli.dev](https://sli.dev)
 drawings:
   persist: false
+title: The senior dev
+layout: cover
 ---
 
 # The senior dev
-
 ## An opinionated take
 
 Luciano Mammino ([@loige](https://twitter.com/loige))
@@ -27,64 +28,80 @@ Luciano Mammino ([@loige](https://twitter.com/loige))
   </a>
 </div>
 
+
+---
+layout: image-right
+image: /images/alexander-milo-HwxVLhLyg2s-unsplash.jpg
 ---
 
-# Meta
+# Agenda
+
+<v-clicks>
+
+- Discuss what is expected from a senior software engineer (skills & dutys)
+- Packed with opinions (my own and more)
+- For devs **to be inspired**
+- For managers to **hire**, **set expectations** and **evaluate**
+
+</v-clicks>
+
+---
+
+# Meta slide
 
 These slides are already online if you want to grab them!
 
-- 📝 **Text-based** - focus on the content with Markdown, and then style them later
-- 🎨 **Themable** - theme can be shared and used with npm packages
-- 🧑‍💻 **Developer Friendly** - code highlighting, live coding with autocompletion
-- 🤹 **Interactive** - embedding Vue components to enhance your expressions
-- 🎥 **Recording** - built-in recording and camera view
-- 📤 **Portable** - export into PDF, PNGs, or even a hostable SPA
-- 🛠 **Hackable** - anything possible on a webpage
+<div>
+  <a href="https://loige.link/senior">
+    <img class="w-1/3 mx-auto py-8" src="/images/slides-qrcode.svg"/>
+  </a>
+</div>
 
-<br>
-<br>
-
-Read more about [Why Slidev?](https://sli.dev/guide/why)
-
-<!--
-You can have `style` tag in markdown to override the style for the current page.
-Learn more: https://sli.dev/guide/syntax#embedded-styles
--->
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -moz-text-fill-color: transparent;
-}
-</style>
+<p class="text-center">
+  <a href="https://loige.link/senior">loige.link/senior</a>
+</p>
 
 ---
+layout: image-left
+image: /images/node-js-design-patterns.png
+---
 
-# Navigation
+# Hello
 
-Hover on the bottom-left corner to see the navigation's controls panel, [learn more](https://sli.dev/guide/navigation.html)
+<v-clicks>
 
-### Keyboard Shortcuts
+<h2 class="my-4">👋 I'm <strong>Luciano</strong></h2>
 
-|     |     |
-| --- | --- |
-| <kbd>right</kbd> / <kbd>space</kbd>| next animation or slide |
-| <kbd>left</kbd>  / <kbd>shift</kbd><kbd>space</kbd> | previous animation or slide |
-| <kbd>up</kbd> | previous slide |
-| <kbd>down</kbd> | next slide |
+- **14 years** in the industry
+- **Senior Architect** at [fourTheorem](https://fourTheorem.com)
+- Co-author of [Node.js design Patterns](https://www.nodejsdesignpatterns.com/)
 
-<!-- https://sli.dev/guide/animations.html#click-animations -->
-<img
-  v-click
-  class="absolute -bottom-9 -left-7 w-80 opacity-50"
-  src="https://sli.dev/assets/arrow-bottom-left.svg"
-/>
-<p v-after class="absolute bottom-23 left-45 opacity-30 transform -rotate-10">Here!</p>
+
+<h3 class="mt-24 mb-4">Let's connect</h3>
+
+<div class="grid grid-cols-2 gap-x-4">
+
+<div>
+
+- [Blog](https://loige.co)
+- [Twitter](https://twitter.com/loige)
+- [LinkedIn](https://www.linkedin.com/in/lucianomammino/)
+
+</div>
+
+
+<div>
+
+- [GitHub](https://github.com/lmammino)
+- [Twitch](https://twitch.tv/loige)
+- [YouTube](https://www.youtube.com/channel/UCL0w2IAjTBx3NNka-l7InPw)
+
+</div>
+
+</div>
+
+</v-clicks>
+
 
 ---
 layout: image-right
