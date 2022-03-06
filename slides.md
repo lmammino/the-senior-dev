@@ -15,7 +15,7 @@ drawings:
 
 # The senior dev
 
-## An opinionated intro about what makes a senior software engineer
+## An opinionated take
 
 Luciano Mammino ([@loige](https://twitter.com/loige))
 
@@ -27,15 +27,11 @@ Luciano Mammino ([@loige](https://twitter.com/loige))
   </a>
 </div>
 
-<!--
-The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
--->
-
 ---
 
-# What is Slidev?
+# Meta
 
-Slidev is a slides maker and presenter designed for developers, consist of the following features
+These slides are already online if you want to grab them!
 
 - 📝 **Text-based** - focus on the content with Markdown, and then style them later
 - 🎨 **Themable** - theme can be shared and used with npm packages
