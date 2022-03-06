@@ -1,6 +1,6 @@
 ---
 theme: default
-background: /cover.jpg
+background: /images/cover.jpg
 class: 'text-center bg-cover w-auto h-auto'
 highlighter: shiki
 lineNumbers: false
