@@ -28,28 +28,45 @@ Luciano Mammino ([@loige](https://twitter.com/loige))
   </a>
 </div>
 
+<div class="absolute bottom-10 text-xs">
+2022-03-10
+</div>
+
 
 ---
 layout: image-right
 image: /images/alexander-milo-HwxVLhLyg2s-unsplash.jpg
 ---
 
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@lexmilo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexander Milo</a> on <a href="https://unsplash.com/@lexmilo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
+
 # Agenda
 
 <v-clicks>
 
-- Discuss what is expected from a senior software engineer (skills & dutys)
-- Packed with opinions (my own and more)
+- Discuss what is expected from a **senior software engineer** (skills, mindset, duties)
+- Packed with _opinions*_ (my own and [m](https://twitter.com/loige/status/1496858958124003331) [o](https://www.linkedin.com/posts/lucianomammino_what-do-you-expect-from-a-senior-software-activity-6902624647033298944-VXIR/) [re](https://news.ycombinator.com/item?id=30582150))
 - For devs **to be inspired**
-- For managers to **hire**, **set expectations** and **evaluate**
+- For managers to **hire**, **set expectations**, **support**, and **evaluate**
 
 </v-clicks>
+
+
+<v-click>
+
+<div class="absolute bottom-20 text-sm">
+* opinions are subjective
+</div>
+
+</v-click>
 
 ---
 
 # Meta slide
 
-These slides are already online if you want to grab them!
+These slides are already online if you want to grab them! 👇
 
 <div>
   <a href="https://loige.link/senior">
@@ -68,16 +85,24 @@ image: /images/node-js-design-patterns.png
 
 # Hello
 
-<v-clicks>
+<v-click>
 
 <h2 class="my-4">👋 I'm <strong>Luciano</strong></h2>
+
+</v-click>
+
+<v-clicks>
 
 - **14 years** in the industry
 - **Senior Architect** at [fourTheorem](https://fourTheorem.com)
 - Co-author of [Node.js design Patterns](https://www.nodejsdesignpatterns.com/)
+- ❤️ **Node.js**, **AWS** & learning **Rust** 🦀
 
+</v-clicks>
 
-<h3 class="mt-24 mb-4">Let's connect</h3>
+<v-click>
+
+<h3 class="mt-12 mb-4">Let's connect</h3>
 
 <div class="grid grid-cols-2 gap-x-4">
 
@@ -100,283 +125,167 @@ image: /images/node-js-design-patterns.png
 
 </div>
 
-</v-clicks>
+</v-click>
+
+<div class="absolute bottom-0 text-xs">
+
+[nodejsdesignpatterns.com](https://nodejsdesignpatterns.com)
+
+</div>
 
 
 ---
 layout: image-right
-image: https://source.unsplash.com/collection/94734566/1920x1080
+image: /images/duck-superman.png
 ---
 
-# Code
-
-Use code snippets and get the highlighting directly![^1]
-
-```ts {all|2|1-6|9|all}
-interface User {
-  id: number
-  firstName: string
-  lastName: string
-  role: string
-}
-
-function updateUser(id: number, update: User) {
-  const user = getUser(id)
-  const newUser = {...user, ...update}  
-  saveUser(id, newUser)
-}
-```
-
-<arrow v-click="3" x1="400" y1="420" x2="230" y2="330" color="#564" width="3" arrowSize="1" />
-
-[^1]: [Learn More](https://sli.dev/guide/syntax.html#line-highlighting)
-
-<style>
-.footnotes-sep {
-  @apply mt-20 opacity-10;
-}
-.footnotes {
-  @apply text-sm opacity-75;
-}
-.footnote-backref {
-  display: none;
-}
-</style>
-
----
-
-# Components
-
-<div grid="~ cols-2 gap-4">
-<div>
-
-You can use Vue components directly inside your slides.
-
-We have provided a few built-in components like `<Tweet/>` and `<Youtube/>` that you can use directly. And adding your custom components is also super easy.
-
-```html
-<Counter :count="10" />
-```
-
-<!-- ./components/Counter.vue -->
-<Counter :count="10" m="t-4" />
-
-Check out [the guides](https://sli.dev/builtin/components.html) for more.
-
-</div>
-<div>
-
-```html
-<Tweet id="1390115482657726468" />
-```
-
-<Tweet id="1390115482657726468" scale="0.65" />
-
-</div>
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@borgemaelum?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Rudolfo Spott</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 </div>
 
+# A senior engineer
+
+<v-clicks>
+
+- The definition changes in every company
+- There are many levels of seniority: senior, staff engineer, principal, etc.
+- My definition: **moves projects & people forward** (_"Force multiplier"_)
+- **Not** a hero (or rockstar, superstar, magician, unicorn, etc.)
+
+</v-clicks>
 
 ---
-class: px-20
+layout: image-right
+image: /images/elena-koycheva-VmcIMhuWCac-unsplash.jpg
 ---
 
-# Themes
-
-Slidev comes with powerful theming support. Themes can provide styles, layouts, components, or even configurations for tools. Switching between themes by just **one edit** in your frontmatter:
-
-<div grid="~ cols-2 gap-2" m="-t-2">
-
-```yaml
----
-theme: default
----
-```
-
-```yaml
----
-theme: seriph
----
-```
-
-<img border="rounded" src="https://github.com/slidevjs/themes/blob/main/screenshots/theme-default/01.png?raw=true">
-
-<img border="rounded" src="https://github.com/slidevjs/themes/blob/main/screenshots/theme-seriph/01.png?raw=true">
-
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@lenneek?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Elena Koycheva</a> on <a href="https://unsplash.com/s/photos/time?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 </div>
 
-Read more about [How to use a theme](https://sli.dev/themes/use.html) and
-check out the [Awesome Themes Gallery](https://sli.dev/themes/gallery.html).
+# It's not just about time or age
+
+<v-clicks>
+
+- ~~5 years of experience~~
+- ~~At least 28 years old~~
+- More time ?== more senior...
+
+</v-clicks>
 
 ---
-preload: false
+clicks: 3
 ---
 
-# Animations
+# Skills
 
-Animations are powered by [@vueuse/motion](https://motion.vueuse.org/).
+<div grid="~ cols-2 gap-2">
 
-```html
-<div
-  v-motion
-  :initial="{ x: -80 }"
-  :enter="{ x: 0 }">
-  Slidev
-</div>
-```
+<h3 v-click="1">Tech skills (hard skills)</h3>
 
-<div class="w-60 relative mt-6">
-  <div class="relative w-40 h-40">
-    <img
-      v-motion
-      :initial="{ x: 800, y: -100, scale: 1.5, rotate: -50 }"
-      :enter="final"
-      class="absolute top-0 left-0 right-0 bottom-0"
-      src="https://sli.dev/logo-square.png"
-    />
-    <img
-      v-motion
-      :initial="{ y: 500, x: -100, scale: 2 }"
-      :enter="final"
-      class="absolute top-0 left-0 right-0 bottom-0"
-      src="https://sli.dev/logo-circle.png"
-    />
-    <img
-      v-motion
-      :initial="{ x: 600, y: 400, scale: 2, rotate: 100 }"
-      :enter="final"
-      class="absolute top-0 left-0 right-0 bottom-0"
-      src="https://sli.dev/logo-triangle.png"
-    />
-  </div>
+<h3 v-click="2">Soft skills</h3>
 
-  <div
-    class="text-5xl absolute top-14 left-40 text-[#2B90B6] -z-1"
-    v-motion
-    :initial="{ x: -80, opacity: 0}"
-    :enter="{ x: 0, opacity: 1, transition: { delay: 2000, duration: 1000 } }">
-    Slidev
-  </div>
-</div>
+<p v-click="3" class="text-gray-600">🤗 Somewhat important!</p>
 
-<!-- vue script setup scripts can be directly used in markdown, and will only affects current page -->
-<script setup lang="ts">
-const final = {
-  x: 0,
-  y: 0,
-  rotate: 0,
-  scale: 1,
-  transition: {
-    type: 'spring',
-    damping: 10,
-    stiffness: 20,
-    mass: 2
-  }
-}
-</script>
+<p  v-click="3" class="text-red-600">🔥 Very important!</p>
 
-<div
-  v-motion
-  :initial="{ x:35, y: 40, opacity: 0}"
-  :enter="{ y: 0, opacity: 1, transition: { delay: 3500 } }">
+<img v-click="1" border="rounded" src="/images/moritz-mentges-XZuqMUiSdgc-unsplash.jpg">
 
-[Learn More](https://sli.dev/guide/animations.html#motion)
+<img v-click="2" border="rounded" src="/images/icons8-team-r-enAOPw8Rs-unsplash.jpg">
+
+<div v-click="1" class="text-xs text-gray-400">Photo by <a href="https://unsplash.com/@mphotographym?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Moritz Mentges</a> on <a href="https://unsplash.com/s/photos/hammer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
+
+<div v-click="2" class="text-xs text-gray-400">Photo by <a href="https://unsplash.com/@icons8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Icons8 Team</a> on <a href="https://unsplash.com/s/photos/communication?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
+  
 
 </div>
 
 ---
+layout: cover
+background: /images/cover.jpg
+---
 
-# LaTeX
-
-LaTeX is supported out-of-box powered by [KaTeX](https://katex.org/).
-
-<br>
-
-Inline $\sqrt{3x-1}+(1+x)^2$
-
-Block
-$$
-\begin{array}{c}
-
-\nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} &
-= \frac{4\pi}{c}\vec{\mathbf{j}}    \nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \\
-
-\nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t} & = \vec{\mathbf{0}} \\
-
-\nabla \cdot \vec{\mathbf{B}} & = 0
-
-\end{array}
-$$
-
-<br>
-
-[Learn more](https://sli.dev/guide/syntax#latex)
+# Tech skills
 
 ---
 
-# Diagrams
-
-You can create diagrams / graphs from textual descriptions, directly in your Markdown.
-
-<div class="grid grid-cols-3 gap-10 pt-4 -mb-6">
-
-```mermaid {scale: 0.5}
-sequenceDiagram
-    Alice->John: Hello John, how are you?
-    Note over Alice,John: A typical interaction
-```
-
-```mermaid {theme: 'neutral', scale: 0.8}
-graph TD
-B[Text] --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-```
-
-```plantuml {scale: 0.7}
-@startuml
-
-package "Some Group" {
-  HTTP - [First Component]
-  [Another Component]
-}
-
-node "Other Groups" {
-  FTP - [Second Component]
-  [First Component] --> FTP
-}
-
-cloud {
-  [Example 1]
-}
-
-
-database "MySql" {
-  folder "This is my folder" {
-    [Folder 3]
-  }
-  frame "Foo" {
-    [Frame 4]
-  }
-}
-
-
-[Another Component] --> [Example 1]
-[Example 1] --> [Folder 3]
-[Folder 3] --> [Frame 4]
-
-@enduml
-```
-
-</div>
-
-[Learn More](https://sli.dev/guide/syntax.html#diagrams)
+- **T-shaped profile**
+  - Master at 1 thing
+  - Proficient at many other things
+- Broad understanding of the system
+  - (architecture, code structure, testing, deployment, scalability)
+- Comfortable with different programming languages and paradigms
+- Understands technical tradeoffs
+  - Eg. Monolith vs Microservices, Memory vs CPU, scalable vs low latency, Reusable vs bespoke, Complex (but powerful) vs Simple (but limited)
+  - Can optimizes for the most relevant ones
+  - Understands the short vs long term impact of these
+- Keeps track of technical debt and helps to pay it back
+- Understand best practices
+- Can suggest patterns that have good long term effects and avoids other that might lead to problems
+- Can solve a problem in different ways and with different tools (adaptable, not one size fits all)
 
 
 ---
-layout: center
-class: text-center
+
+# Soft skills
+
+ - Communication!
+   - Be able to talk with all the stakeholders
+   - Be able to talk about failures and learnings
+   - Planning, drive cerimonies
+   - Can write docs, deliver presentations
+   - Can make complex topics digestable
+  - Autonomy
+    - Can drive projects that require research and grind
+    - But aware of avoiding silos
+ - Growth (?)
+   - Always learning
+   - Always teaching / sharing
+ - 
+
 ---
 
-# Learn More
+## Traits of a Senior Engineer
+- T-shaped profile (strong at one thing, understands many things)
+- A bridge between product and tech
+- Force multiplier (makes other better)
+- Mindset of "always-be-learning"
+- Soft skills
+- Set expectations
+	- What does it mean to be successful in the current environment
+- Positive attitude:
+	- Don't blame the system
+	- Propose solutions
+	- Facilitate conversations
+	- Help to find compromises
 
-[Documentations](https://sli.dev) · [GitHub](https://github.com/slidevjs/slidev) · [Showcases](https://sli.dev/showcases.html)
+---
+
+## Attitude
+
+ - Humble: Know when to say "I don't know"
+ - Value collective success over individual performance
+ - Keeps the project goal in mind and help to optimise for it (_follow the north star_)
+ - Take ownership
+ - Knows how to get unstuck (don't just wait idle when facing difficulties)
+ - Confidence that hard problems can be solved even if we don't know how yet
+
+---
+
+## Suggestions on how to grow
+
+- Go 1 level deeper!
+	- Be curious
+	- Dig deeper
+	- Ask why
+	- Ask how does this work (UTF-8, SHA512, DNS, etc.)
+		- https://www.youtube.com/watch?v=H565avw-ufk (Computer Science Iceberg)
+	- Ask yourself "how would I have implemented this"
+- Have fun
+- Attitude:
+	- Help others, especially at the early phases of a project/feature
+		- Your experience might be valuable to avoid common design mistakes early on (e.g. defining data models for dbs/events and keeping those documented and versioned)
+	- But don't do the mistake of thinking that there's only one solution
+		- Evaluate other proposals, suggest and give people space to experiment and go ahead with other ideas
+	- Don't be picky about technology
+
