@@ -243,12 +243,16 @@ Photo by <a href="https://unsplash.com/@jentheodore?utm_source=unsplash&utm_medi
 
 # Broad understanding
 
+<v-clicks>
+
   - Understand the platform
     - Architecture
     - Code Structure
     - Testing
     - Deployment process
     - Scalability model
+
+</v-clicks>
 
 ---
 layout: image-right
@@ -261,14 +265,18 @@ Photo by <a href="https://unsplash.com/@pickledstardust?utm_source=unsplash&utm_
 
 # Understand tradeoffs
 
+<v-clicks>
+
  - Eg.
     - Monolith vs Microservices
     - Memory vs CPU
     - Highly Scalable vs low latency
     - Reusable vs bespoke
     - Complex (but powerful) vs Simple (but limited)
-  - Optimizes for the most relevant ones
-  - Understands the short vs long term impact of these
+  - **Optimizes** for the most relevant ones
+  - Understands the **short** vs **long term** impact of these tradeoffs
+
+</v-clicks>
 
 ---
 layout: image-right
@@ -281,12 +289,16 @@ Photo by <a href="https://unsplash.com/@wesleyphotography?utm_source=unsplash&ut
 
 # Flexible
 
+<v-clicks>
+
 - Comfortable with different programming languages
 - ...and paradigms:
   - OOP vs Functional
   - Declarative vs Imperative
   - Compiled vs Interpreted
 - Can solve the same problem in different ways and with different tools
+
+</v-clicks>
 
 
 ---
@@ -301,6 +313,8 @@ Photo by <a href="https://unsplash.com/@brenkee?utm_source=unsplash&utm_medium=r
 
 # Bug catcher
 
+<v-clicks>
+
 - Understands and refines user stories
 - Can write different types of test:
     - Unit
@@ -308,6 +322,8 @@ Photo by <a href="https://unsplash.com/@brenkee?utm_source=unsplash&utm_medium=r
     - E2E
 - Can find and discuss edge cases
 - Keeps track of **technical debt** and helps to pay it back
+
+</v-clicks>
 
 
 ---
@@ -322,10 +338,14 @@ Photo by <a href="https://unsplash.com/@jdiegoph?utm_source=unsplash&utm_medium=
 
 # Good advisor
 
+<v-clicks>
+
 - Understand patterns and best practices
 - Can suggest patterns that have good long term effects
 - ...and avoids other that might lead to problems
 - Suggests but does not mandate
+
+</v-clicks>
 
 
 ---
@@ -349,10 +369,14 @@ Photo by <a href="https://unsplash.com/@florianolv?utm_source=unsplash&utm_mediu
 
 # Active lever
 
+<v-clicks>
+
   - Ask hard questions
   - Takes leadership to find what they don't know
   - Is a bridge between product and technology
   - Know when (and how) to say **NO**
+
+</v-clicks>
 
 ---
 layout: image-right
@@ -365,12 +389,16 @@ Photo by <a href="https://unsplash.com/@dawson2406?utm_source=unsplash&utm_mediu
 
 # Understand the business
 
+<v-clicks>
+
   - What's the **purpose**?
   - What's the long term **vision**?
   - What's the **strategy**?
   - What are the unique **strenghts**?
   - What are the main **weaknesses**?
   - How can technology help?
+
+</v-clicks>
 
 ---
 layout: image-right
@@ -383,11 +411,15 @@ Photo by <a href="https://unsplash.com/@hugojehanne?utm_source=unsplash&utm_medi
 
 # Communication!
 
+<v-clicks>
+
   - Can talk with all the stakeholders
   - Can explain uncertainties and propose ideas on how to address them
   - Can talk about failures and learnings
   - Can write docs & deliver presentations
   - Can make complex topics digestable
+
+</v-clicks>
 
 ---
 layout: image-right
@@ -399,12 +431,17 @@ Photo by <a href="https://unsplash.com/@jasongoodman_youxventures?utm_source=uns
 </div>
 
 # Supports management
+
+<v-clicks>
+
   - Planning
   - Drive cerimonies
   - Keep in track priorities and technical debt
   - Can split complex tasks into manageable parts
   - Understands and leverages team strengths
-    - Pull in the right people at the right time  
+  - Pulls in the right people at the right time  
+
+</v-clicks>
 
 ---
 layout: image-right
@@ -416,6 +453,8 @@ Photo by <a href="https://unsplash.com/@taelynnmae?utm_source=unsplash&utm_mediu
 </div>
 
 # Autonomy
+
+<v-clicks>
   
   - Can drive projects that require research and grind
   - But aware of avoiding silos
@@ -424,6 +463,8 @@ Photo by <a href="https://unsplash.com/@taelynnmae?utm_source=unsplash&utm_mediu
     - Research and experiment
     - Read the docs
     - Read and understand existing code
+
+</v-clicks>
 
 ---
 layout: image-right
@@ -436,7 +477,9 @@ Photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medi
 
 # Focus on delivery
 
-- Set expectations
+<v-clicks>
+
+- Negotiates expectations
 	- What does it mean to be successful in the current environment
 - Positive attitude:
 	- Don't blame the system
@@ -444,6 +487,8 @@ Photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medi
 	- Facilitate conversations
 	- Help to find compromises
 - Confidence that hard problems can be solved even if we don't know how yet
+
+</v-clicks>
 
 ---
 layout: cover
@@ -464,6 +509,8 @@ Photo by <a href="https://unsplash.com/@grbchh?utm_source=unsplash&utm_medium=re
 
 # Go 1 level deeper
 
+<v-clicks>
+
 - Don't stop at the layer you are familiar with
 - What happens in the underlying layers?
 - E.g.
@@ -472,7 +519,9 @@ Photo by <a href="https://unsplash.com/@grbchh?utm_source=unsplash&utm_medium=re
   - **UTF-8**, **SHA512**, **DNS**, etc.
 - [🎥 The computer science iceberg](https://www.youtube.com/watch?v=H565avw-ufk)
 - Discend one level at the time
-- Build prototypes
+- Build prototypes to test your understanding
+
+</v-clicks>
 
 ---
 layout: image-right
@@ -485,11 +534,15 @@ Photo by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medi
 
 # Have fun
 
+<v-clicks>
+
 - Learning new stuff can be fun
 - You can build utilities and side projects
 - Showcase what you learned to your peers
 - Can you apply these learnings at work?
 - Hackaton and free study days are a great way to spend work time for engineering growth
+
+</v-clicks>
 
 
 ---
@@ -503,12 +556,16 @@ Photo by <a href="https://unsplash.com/@gerandeklerk?utm_source=unsplash&utm_med
 
 # Pair programming
 
+<v-clicks>
+
 - Try to pair with as many people as possible within the org
-- You can probably learn something from everyone (even from the most junior)
-- You can probably teach something to everyone (even to the most senior)
+- You can probably **learn something from everyone** (even from the most junior)
+- You can probably **teach something to everyone** (even to the most senior)
 - Not everyone loves pair programming, so try alternatives:
   - Interactive code reviews
   - Show and tell sessions
+
+</v-clicks>
 
 
 ---
@@ -522,11 +579,15 @@ Photo by <a href="https://unsplash.com/@florianklauer?utm_source=unsplash&utm_me
 
 # Create content
 
+<v-clicks>
+
 - Articles, Talks, Videos, Twitter threads, Etc.
 - You don't need to be an expert to share something new you learned
 - Make it a habit
 - Creating content will massively improve your communication skills
 - [⚛️ Atomic essays](https://www.ship30for30.com/post/how-to-write-an-atomic-essay-a-beginners-guide)
+
+</v-clicks>
 
 ---
 layout: image-right
@@ -539,12 +600,14 @@ Photo by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medi
 
 # Keep a positive attitude
 
-- With enough time and money you can probably solve everything
+<v-clicks>
+
+- With enough time and money the team can probably solve everything
 - With _sligthly less_ money and time you can find decent compromises 😅
-- Help with the early phases of a project/feature
-	- Avoid common design mistakes early on
-	- Evaluate other proposals, suggest and give people space to experiment
 - Don't be picky about technology or style
+- Support other people's ideas (even if you would have done it differently)
+
+</v-clicks>
 
 
 ---
