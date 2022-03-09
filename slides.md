@@ -612,6 +612,26 @@ Photo by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medi
 
 ---
 layout: image-right
+image: /images/jess-zoerb-wsh1zrAhgOY-unsplash.jpg
+---
+
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@jzoerb?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jess Zoerb</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
+
+# Do the hard work
+
+<v-clicks>
+
+- Volunteer for that refactoring that no one wants to do
+- Get involved in parts that people generally avoid because they are hard or messy
+- Try to make things a little bit better!
+
+</v-clicks>
+
+
+---
+layout: image-right
 image: /images/sharon-mccutcheon-tn57JI3CewI-unsplash.jpg
 ---
 
