@@ -150,7 +150,7 @@ Photo by <a href="https://unsplash.com/@borgemaelum?utm_source=unsplash&utm_medi
 - The definition changes in every company
 - There are many levels of seniority: senior, staff engineer, principal, etc.
 - My definition: **moves projects & people forward** (_"Force multiplier"_)
-- **Not** a hero (or rockstar, superstar, magician, unicorn, etc.)
+- **Team player**, **not** a hero (or rockstar, superstar, magician, unicorn, etc.)
 
 </v-clicks>
 
@@ -202,55 +202,188 @@ clicks: 3
 
 ---
 layout: cover
-background: /images/cover.jpg
+background: https://media.giphy.com/media/YQitE4YNQNahy/giphy-downsized.gif
 ---
 
 # Tech skills
 
 ---
+layout: image-right
+image: /images/lucas-van-oort-C3A8xQq-mAc-unsplash.jpg
+---
 
-- **T-shaped profile**
-  - Master at 1 thing
-  - Proficient at many other things
-- Broad understanding of the system
-  - (architecture, code structure, testing, deployment, scalability)
-- Comfortable with different programming languages and paradigms
-- Understands technical tradeoffs
-  - Eg. Monolith vs Microservices, Memory vs CPU, scalable vs low latency, Reusable vs bespoke, Complex (but powerful) vs Simple (but limited)
-  - Can optimizes for the most relevant ones
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@switch_dtp_fotografie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lucas van Oort</a> on <a href="https://unsplash.com/s/photos/t?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
+
+# T-shaped profile
+
+<v-clicks>
+
+- Master at 1 thing
+- Proficient at many other things
+- Example:
+  - Master at **backend & API development**
+  - Can do some **frontend**
+  - Can do some **IaaC**
+  - Understands **cloud architectures**
+
+</v-clicks>
+
+
+
+---
+layout: image-right
+image: /images/jen-theodore-C6LzqZakyp4-unsplash.jpg
+---
+
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@jentheodore?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jen Theodore</a> on <a href="https://unsplash.com/s/photos/binocular?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
+
+# Broad understanding
+
+  - Understand the platform
+    - Architecture
+    - Code Structure
+    - Testing
+    - Deployment process
+    - Scalability model
+
+---
+layout: image-right
+image: /images/pickled-stardust-xBYsohNqXs0-unsplash.jpg
+---
+
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@pickledstardust?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pickled Stardust</a> on <a href="https://unsplash.com/s/photos/balance?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
+
+# Understand tradeoffs
+
+ - Eg.
+    - Monolith vs Microservices
+    - Memory vs CPU
+    - Highly Scalable vs low latency
+    - Reusable vs bespoke
+    - Complex (but powerful) vs Simple (but limited)
+  - Optimizes for the most relevant ones
   - Understands the short vs long term impact of these
-- Keeps track of technical debt and helps to pay it back
-- Understand best practices
-- Can suggest patterns that have good long term effects and avoids other that might lead to problems
-- Can solve a problem in different ways and with different tools (adaptable, not one size fits all)
+
+---
+layout: image-right
+image: /images/wesley-tingey-fKQhd4rtFww-unsplash.jpg
+---
+
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@wesleyphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Wesley Tingey</a> on <a href="https://unsplash.com/s/photos/flexible?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
+
+# Flexible
+
+- Comfortable with different programming languages
+- ...and paradigms:
+  - OOP vs Functional
+  - Declarative vs Imperative
+  - Compiled vs Interpreted
+- Can solve the same problem in different ways and with different tools
 
 
+---
+layout: image-right
+image: /images/benjamin-balazs-fc_tWL1W3TI-unsplash.jpg
+---
+
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@brenkee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Benjamin Balázs</a> on <a href="https://unsplash.com/s/photos/ladybug?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
+
+
+# Bug catcher
+
+- Understands and refines user stories
+- Can write different types of test:
+    - Unit
+    - Integration
+    - E2E
+- Can find and discuss edge cases
+- Keeps track of **technical debt** and helps to pay it back
+
+
+---
+layout: image-right
+image: /images/diego-ph-fIq0tET6llw-unsplash.jpg
+---
+
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@jdiegoph?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Diego PH</a> on <a href="https://unsplash.com/s/photos/idea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
+
+
+# Good advisor
+
+- Understand patterns and best practices
+- Can suggest patterns that have good long term effects
+- ...and avoids other that might lead to problems
+- Suggests but does not mandate
+
+
+---
+layout: cover
+background: https://media.giphy.com/media/tRuIpxbqV6MEM/giphy.gif
 ---
 
 # Soft skills
 
- - Communication!
-   - Be able to talk with all the stakeholders
-   - Be able to talk about failures and learnings
-   - Planning, drive cerimonies
-   - Can write docs, deliver presentations
-   - Can make complex topics digestable
-  - Autonomy
-    - Can drive projects that require research and grind
-    - But aware of avoiding silos
- - Growth (?)
-   - Always learning
-   - Always teaching / sharing
- - 
+---
+
+# Active lever
+
+  - Ask hard questions
+  - Takes leadership to find what they don't know
+  - Is a bridge between product and technology
 
 ---
 
-## Traits of a Senior Engineer
-- T-shaped profile (strong at one thing, understands many things)
-- A bridge between product and tech
-- Force multiplier (makes other better)
-- Mindset of "always-be-learning"
-- Soft skills
+# Understand the business
+
+  - Understand the business
+    - What's the purpose
+    - What are the unique strenghts
+    - What are the main weaknesses
+    - How can technology help
+
+---
+
+# Communication!
+
+  - Be able to talk with all the stakeholders
+  - Be able to talk about failures and learnings
+  - Can write docs & deliver presentations
+  - Can make complex topics digestable
+
+---
+
+# Supports management
+  - Planning, drive cerimonies
+  - Can split complex tasks into manageable parts  
+
+---
+
+# Autonomy
+  
+  - Can drive projects that require research and grind
+  - But aware of avoiding silos
+  - Knows how to get unstuck
+    - Ask for help
+    - Research and experiment
+    - Read the docs
+    - Read and understand existing code
+
+---
+
+# Focus on delivery
+
 - Set expectations
 	- What does it mean to be successful in the current environment
 - Positive attitude:
@@ -258,34 +391,103 @@ background: /images/cover.jpg
 	- Propose solutions
 	- Facilitate conversations
 	- Help to find compromises
+- Confidence that hard problems can be solved even if we don't know how yet
+
+---
+layout: cover
+background: https://media.giphy.com/media/E6B4aFk4akYRW/giphy.gif
+---
+
+# How to grow
 
 ---
 
-## Attitude
+# Go 1 level deeper
 
- - Humble: Know when to say "I don't know"
- - Value collective success over individual performance
- - Keeps the project goal in mind and help to optimise for it (_follow the north star_)
- - Take ownership
- - Knows how to get unstuck (don't just wait idle when facing difficulties)
- - Confidence that hard problems can be solved even if we don't know how yet
+- Don't stop at the layer you are familiar with
+- What happens in the underlying layers?
+- E.g.
+  - How does the **HTTP** protocol work?
+  - How does **TCP** work?
+  - **UTF-8**, **SHA512**, **DNS**, etc.
+- [🎥 The computer science iceberg](https://www.youtube.com/watch?v=H565avw-ufk)
+- Discend one level at the time
+- Build prototypes
 
 ---
 
-## Suggestions on how to grow
+# Have fun
 
-- Go 1 level deeper!
-	- Be curious
-	- Dig deeper
-	- Ask why
-	- Ask how does this work (UTF-8, SHA512, DNS, etc.)
-		- https://www.youtube.com/watch?v=H565avw-ufk (Computer Science Iceberg)
-	- Ask yourself "how would I have implemented this"
-- Have fun
-- Attitude:
-	- Help others, especially at the early phases of a project/feature
-		- Your experience might be valuable to avoid common design mistakes early on (e.g. defining data models for dbs/events and keeping those documented and versioned)
+- Learning new stuff can be fun
+- You can build utilities and side projects
+- Showcase what you learned to your peers
+- Can you apply these learnings at work?
+- Hackaton and free study days are a great way to spend work time for engineering growth
+
+
+---
+
+# Pair programming
+
+- Try to pair with as many people as possible within the org
+- You can probably learn something from everyone (even from the most junior)
+- You can probably teach something to everyone (even to the most senior)
+
+
+---
+
+# Create content
+
+- Articles, Talks, Videos, Twitter threads, Etc.
+- You don't need to be an expert to share something new you learned
+- Make it a habit
+- Creating content will massively improve your communication skills
+- [⚛️ Atomic essays](https://www.ship30for30.com/post/how-to-write-an-atomic-essay-a-beginners-guide)
+
+---
+
+# Keep a positive attitude
+
+- Be pragmatic when problems arise
+- With enough time and money you can probably solve everything
+- With _sligthly less_ money and time you can find decent compromises 😅
+- Help others
+  - Especially at the early phases of a project/feature
+		- Avoid common design mistakes early on
+    - e.g. defining data models for dbs/events and keeping those documented and versioned
 	- But don't do the mistake of thinking that there's only one solution
 		- Evaluate other proposals, suggest and give people space to experiment and go ahead with other ideas
-	- Don't be picky about technology
+- Don't be picky about technology or style
 
+
+---
+
+## Additional resources
+
+- https://www.progression.fyi/
+- https://medium.com/building-carta/engineering-levels-at-carta-d33db2a55a20
+- https://career-ladders.dev/engineering/
+- https://davidxiang.com/2021/07/18/20-micro-habits-of-high-impact-software-engineers/
+
+
+---
+
+We cannot excel at everything
+
+
+---
+
+But we should know our strengths and weaknesses
+
+
+---
+
+Work with our team to amplify strenghts and compensate weaknesses
+
+---
+
+And strive to get better every day!
+
+---
+
+Thanks
