@@ -1,7 +1,7 @@
 ---
 theme: ./theme
 background: /images/cover.jpg
-download: true
+download: false
 highlighter: shiki
 lineNumbers: false
 info: |
