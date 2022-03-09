@@ -336,39 +336,84 @@ background: https://media.giphy.com/media/tRuIpxbqV6MEM/giphy.gif
 # Soft skills
 
 ---
+layout: image-right
+image: /images/florian-olivo-ca7tJ48YD64-unsplash.jpg
+---
+
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@florianolv?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Florian Olivo</a> on <a href="https://unsplash.com/s/photos/lever?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
+
+
+  
 
 # Active lever
 
   - Ask hard questions
   - Takes leadership to find what they don't know
   - Is a bridge between product and technology
+  - Know when (and how) to say **NO**
 
 ---
+layout: image-right
+image: /images/stephen-dawson-qwtCeJ5cLYs-unsplash.jpg
+---
+
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@dawson2406?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Stephen Dawson</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
 
 # Understand the business
 
-  - Understand the business
-    - What's the purpose
-    - What are the unique strenghts
-    - What are the main weaknesses
-    - How can technology help
+  - What's the **purpose**?
+  - What's the long term **vision**?
+  - What's the **strategy**?
+  - What are the unique **strenghts**?
+  - What are the main **weaknesses**?
+  - How can technology help?
 
 ---
+layout: image-right
+image: /images/hugo-jehanne-LOHVrTsdvzY-unsplash.jpg
+---
+
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@hugojehanne?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hugo Jehanne</a> on <a href="https://unsplash.com/s/photos/communication?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
 
 # Communication!
 
-  - Be able to talk with all the stakeholders
-  - Be able to talk about failures and learnings
+  - Can talk with all the stakeholders
+  - Can explain uncertainties and propose ideas on how to address them
+  - Can talk about failures and learnings
   - Can write docs & deliver presentations
   - Can make complex topics digestable
 
 ---
+layout: image-right
+image: /images/jason-goodman-Oalh2MojUuk-unsplash.jpg
+---
+
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@jasongoodman_youxventures?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jason Goodman</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
 
 # Supports management
-  - Planning, drive cerimonies
-  - Can split complex tasks into manageable parts  
+  - Planning
+  - Drive cerimonies
+  - Keep in track priorities and technical debt
+  - Can split complex tasks into manageable parts
+  - Understands and leverages team strengths
+    - Pull in the right people at the right time  
 
 ---
+layout: image-right
+image: /images/taelynn-christopher-Z_CQ5VQcpCo-unsplash.jpg
+---
+
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@taelynnmae?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Taelynn Christopher</a> on <a href="https://unsplash.com/s/photos/freedom?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
 
 # Autonomy
   
@@ -381,6 +426,13 @@ background: https://media.giphy.com/media/tRuIpxbqV6MEM/giphy.gif
     - Read and understand existing code
 
 ---
+layout: image-right
+image: /images/annie-spratt-t3IYuQZRDNE-unsplash.jpg
+---
+
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Annie Spratt</a> on <a href="https://unsplash.com/s/photos/arrow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
 
 # Focus on delivery
 
@@ -401,6 +453,14 @@ background: https://media.giphy.com/media/E6B4aFk4akYRW/giphy.gif
 # How to grow
 
 ---
+layout: image-right
+image: /images/oleksandr-horbach-xMNZrl1HM24-unsplash.jpg
+---
+
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@grbchh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Oleksandr Horbach</a> on <a href="https://unsplash.com/s/photos/dig?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
+
 
 # Go 1 level deeper
 
@@ -415,6 +475,13 @@ background: https://media.giphy.com/media/E6B4aFk4akYRW/giphy.gif
 - Build prototypes
 
 ---
+layout: image-right
+image: /images/nathan-dumlao-eUbNeGQEh2U-unsplash.jpg
+---
+
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nathan Dumlao</a> on <a href="https://unsplash.com/s/photos/fun?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
 
 # Have fun
 
@@ -426,15 +493,32 @@ background: https://media.giphy.com/media/E6B4aFk4akYRW/giphy.gif
 
 
 ---
+layout: image-right
+image: /images/geran-de-klerk-ADUiP4nJwds-unsplash.jpg
+---
+
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@gerandeklerk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Geran de Klerk</a> on <a href="https://unsplash.com/s/photos/pair?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
 
 # Pair programming
 
 - Try to pair with as many people as possible within the org
 - You can probably learn something from everyone (even from the most junior)
 - You can probably teach something to everyone (even to the most senior)
+- Not everyone loves pair programming, so try alternatives:
+  - Interactive code reviews
+  - Show and tell sessions
 
 
 ---
+layout: image-right
+image: /images/florian-klauer-mk7D-4UCfmg-unsplash.jpg
+---
+
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@florianklauer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Florian Klauer</a> on <a href="https://unsplash.com/s/photos/content?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
 
 # Create content
 
@@ -445,49 +529,112 @@ background: https://media.giphy.com/media/E6B4aFk4akYRW/giphy.gif
 - [⚛️ Atomic essays](https://www.ship30for30.com/post/how-to-write-an-atomic-essay-a-beginners-guide)
 
 ---
+layout: image-right
+image: /images/nathan-dumlao-zi5vRoAP3WY-unsplash.jpg
+---
+
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nathan Dumlao</a> on <a href="https://unsplash.com/s/photos/positive?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
 
 # Keep a positive attitude
 
-- Be pragmatic when problems arise
 - With enough time and money you can probably solve everything
 - With _sligthly less_ money and time you can find decent compromises 😅
-- Help others
-  - Especially at the early phases of a project/feature
-		- Avoid common design mistakes early on
-    - e.g. defining data models for dbs/events and keeping those documented and versioned
-	- But don't do the mistake of thinking that there's only one solution
-		- Evaluate other proposals, suggest and give people space to experiment and go ahead with other ideas
+- Help with the early phases of a project/feature
+	- Avoid common design mistakes early on
+	- Evaluate other proposals, suggest and give people space to experiment
 - Don't be picky about technology or style
 
 
 ---
+layout: image-right
+image: /images/sharon-mccutcheon-tn57JI3CewI-unsplash.jpg
+---
 
-## Additional resources
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@sharonmccutcheon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sharon McCutcheon</a> on <a href="https://unsplash.com/s/photos/resource?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
 
-- https://www.progression.fyi/
-- https://medium.com/building-carta/engineering-levels-at-carta-d33db2a55a20
-- https://career-ladders.dev/engineering/
-- https://davidxiang.com/2021/07/18/20-micro-habits-of-high-impact-software-engineers/
+# Additional resources
+
+- [Progression.fyi](https://www.progression.fyi/)
+- [Career Ladders](https://career-ladders.dev/engineering/)
+- [20 Micro-Habits Of High-Impact Software Engineers](https://davidxiang.com/2021/07/18/20-micro-habits-of-high-impact-software-engineers/)
+- [Engineering levels at Carta](https://medium.com/building-carta/engineering-levels-at-carta-d33db2a55a20)
 
 
 ---
+layout: cover
+background: /images/marek-szturc-2s3fI3M1lO0-unsplash.jpg
+---
 
-We cannot excel at everything
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@marxgall?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marek Szturc</a> on <a href="https://unsplash.com/s/photos/calm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
+
+## We cannot excel at everything
 
 
 ---
+layout: cover
+background: /images/marek-szturc-2s3fI3M1lO0-unsplash.jpg
+---
 
-But we should know our strengths and weaknesses
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@marxgall?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marek Szturc</a> on <a href="https://unsplash.com/s/photos/calm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
+
+## But we should know our **strengths** and **weaknesses**
 
 
 ---
-
-Work with our team to amplify strenghts and compensate weaknesses
-
+layout: cover
+background: /images/marek-szturc-2s3fI3M1lO0-unsplash.jpg
 ---
 
-And strive to get better every day!
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@marxgall?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marek Szturc</a> on <a href="https://unsplash.com/s/photos/calm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
+
+## Work with our **team** to **amplify strenghts** and **compensate weaknesses**
+
 
 ---
+layout: cover
+background: /images/marek-szturc-2s3fI3M1lO0-unsplash.jpg
+---
 
-Thanks
+<div class="absolute bottom-10 text-xs text-gray-400">
+Photo by <a href="https://unsplash.com/@marxgall?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marek Szturc</a> on <a href="https://unsplash.com/s/photos/calm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</div>
+
+## ...and strive to **get better every day**!
+
+---
+layout: cover
+background: /images/cover.jpg
+---
+
+<p class="text-center">
+  
+# Thanks!
+
+[loige.link/senior](https://loige.link/senior)
+
+Luciano Mammino ([@loige](https://twitter.com/loige))
+
+</p>
+
+
+<p class="absolute bottom-0 text-xs text-gray-400">
+  
+Cover photo by <a href="https://unsplash.com/@tkristin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">TK</a> on <a href="https://unsplash.com/s/photos/hero?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+</p>
+
+
+
+
+
+  
