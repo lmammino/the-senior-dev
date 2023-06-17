@@ -20,6 +20,8 @@ layout: cover
 
 Luciano Mammino ([@loige](https://twitter.com/loige))
 
+<small>[loige.link/senior](https://loige.link/senior)</small>
+
 
 <div class="abs-br m-6 flex gap-2">
   <a href="https://github.com/lmammino/the-senior-dev" target="_blank" alt="GitHub"
@@ -29,7 +31,7 @@ Luciano Mammino ([@loige](https://twitter.com/loige))
 </div>
 
 <div class="absolute bottom-10 text-xs">
-2022-03-10
+2023-06-17
 </div>
 
 
@@ -715,9 +717,3 @@ Luciano Mammino ([@loige](https://twitter.com/loige))
 Cover photo by <a href="https://unsplash.com/@tkristin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">TK</a> on <a href="https://unsplash.com/s/photos/hero?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 </p>
-
-
-
-
-
-  

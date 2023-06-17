@@ -6,11 +6,11 @@
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.28.9",
-    "@slidev/theme-default": "*"
+    "@slidev/cli": "^0.42.4",
+    "@slidev/theme-default": "^0.21.2"
   },
   "name": "the-senior-dev",
   "devDependencies": {
-    "playwright-chromium": "^1.19.2"
+    "playwright-chromium": "^1.35.1"
   }
 }
